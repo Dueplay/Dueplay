@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dueplay
 - 👀 I’m interested in network,os,c/c++,basketball,rap music...
-- 🌱 I’m currently pursue a master's degree in cqu.
 - 📫 email: guoxianjun@cqu.edu.cn.
 
 <!---
