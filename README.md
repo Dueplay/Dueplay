@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dueplay
-- 👀 I’m interested in network,os,c/c++,basketball,rap music...
+- 👀 I’m interested in network,os,db,c/c++,basketball,rap music...
 - 📫 email: guoxianjun@cqu.edu.cn.
 
 <!---
